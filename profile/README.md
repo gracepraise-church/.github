@@ -1,7 +1,6 @@
 <p align="center">
   <img src="../assets/hero.svg" alt="Grace and Praise Bangladeshi Church" width="100%" />
 </p>
-
 ---
 
 # ✨ Grace and Praise Bangladeshi Church
